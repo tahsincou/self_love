@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Breathe",
+    "time": "45 seconds",
+    "thumbnail": "assets/images/women_hijab.png",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  },
+  {
+    "title": "Heal & Raises",
+    "time": "55 seconds",
+    "thumbnail": "assets/images/women_formal.png",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
+  },
+  {
+    "title": "Taking Pressure",
+    "time": "60 seconds",
+    "thumbnail": "assets/images/women_traditional.png",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+  },
+  {
+    "title": "Management",
+    "time": "120 seconds",
+    "thumbnail": "assets/images/girl.png",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+  }
+
+]

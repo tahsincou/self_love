@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "905914584702",
+    "project_id": "self-love-24205",
+    "storage_bucket": "self-love-24205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905914584702:android:5520b918562e2592bb922f",
+        "android_client_info": {
+          "package_name": "com.example.self_love"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905914584702-t38vkgc6d4q9psp07ss8qeogvmtvbuf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKt48cS3GAT-P8w_WhIw5lm35vyorK1PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905914584702-t38vkgc6d4q9psp07ss8qeogvmtvbuf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
