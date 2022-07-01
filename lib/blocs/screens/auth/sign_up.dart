@@ -149,7 +149,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                                 textAlign: TextAlign.center),
                             TextButton(onPressed: (){
                               Navigator.pushNamed(context, '/sign_in_screen');
-                            }, child: Text('Sign In',  style: TextStyle(
+                            }, child: Text('Login',  style: TextStyle(
                                 fontWeight: FontWeight.bold, color:kPrimaryColor),))
                           ],
                         ),
