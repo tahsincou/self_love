@@ -1,6 +1,6 @@
 # self_love
 
-A new Flutter project.
+A new self project.
 
 ## Getting Started
 
